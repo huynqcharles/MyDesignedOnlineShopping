@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{9BBCE5CD-76A8-457C-A467-C7EE652E27A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{019E412D-7B88-434B-94BD-5F71A82B7FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBCE5CD-76A8-457C-A467-C7EE652E27A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBCE5CD-76A8-457C-A467-C7EE652E27A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBCE5CD-76A8-457C-A467-C7EE652E27A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBCE5CD-76A8-457C-A467-C7EE652E27A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019E412D-7B88-434B-94BD-5F71A82B7FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019E412D-7B88-434B-94BD-5F71A82B7FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019E412D-7B88-434B-94BD-5F71A82B7FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019E412D-7B88-434B-94BD-5F71A82B7FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
